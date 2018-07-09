@@ -1,2 +1,2 @@
-# WorkSpace-JAVA
- Repository for java projects.
+# Uri Judge Solutions for JAVA
+ Repository for java solutions.
